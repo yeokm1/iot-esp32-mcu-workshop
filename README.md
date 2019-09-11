@@ -17,7 +17,7 @@ An ESP32-based microcontroller breakout was chosen as it is Arduino-compatible a
 
 ## Install CP2102 drivers, Arduino and ESP32 SDK
 
-0. [Download and install Silabs CP2102 drivers](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
+0. [Download and install Silabs CP2102 drivers for Mac](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers). Windows 10 will automatically install the drivers when you plug in the board.
 
 1. [Download and install the latest Arduino IDE](https://www.arduino.cc/en/main/software) which is 1.8.9 at time of writing.
 
